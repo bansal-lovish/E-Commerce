@@ -11,8 +11,15 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        textcolor:'#373737',
+        orange:"#FF651C"
+        
       },
     },
+    backgroundImage: {
+      pattern: "url('pxdraft.com/themeforest/krinky/assets/img/effect/bg-effect-1.png')",
+      
+    }
   },
   plugins: [],
 };
